@@ -416,6 +416,7 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 * [maras-archive/rsnake](https://github.com/maras-archive/rsnake) - Snake.
 * [mcthesw/game-save-manager](https://github.com/mcthesw/game-save-manager) - A user-friendly tool for managing game saves [![build badge](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml/badge.svg)](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml)
 * [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
+* [wy471x/open-tetris](https://github.com/wy471x/open-tetris) - Simple and funny tetris game.
 * [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) - A small 2D turn-based hexagonal strategy game
 * [rhex](https://github.com/dpc/rhex) - hexagonal ascii roguelike
 * [rsaarelm/magog](https://github.com/rsaarelm/magog) - A roguelike game.
